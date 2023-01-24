@@ -1,0 +1,47 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: "Lora",serif;
+  height: 400px;
+  background-image: url("fondo2.jpg");
+  background-size: cover;
+  color: white;
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+
+}
+nav a{
+    font-weight: 600;
+    padding-right: 19px;
+    padding:10px
+    
+}
+nav a:hover{
+    background-color: lightslategrey; 
+    padding:10px
+}
+header,footer{
+    display: flex;
+    min-height: 70px;
+    background-image: url("fondo3.jpg"); 
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    flex-direction: row ;
+}
+h3,a{
+    color:white;
+    font-size: 20px;
+}
+div{
+   
+}
+iframe{
+    width: 800px; 
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
