@@ -28,6 +28,7 @@ html {
   padding: 0;
   margin: 0;
   letter-spacing: 1.1px;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 
 body,
@@ -36,7 +37,7 @@ html {
   height: 100%;
   font-family: "Lora",serif;
   height: 400px;
-  background-image: url("fondo2.jpg");
+  background-image: url("fondo5.jpg");
   background-size: cover;
   color: white;
   background-repeat:no-repeat;
@@ -106,6 +107,10 @@ h2{
 }
 p{
     font-size: 20px;
+    margin-top: 10px;
+    margin-right: 800px;
+    margin-bottom: 20px;
+    margin-left: 10px;
 }
 
 @-webkit-keyframes scroll {

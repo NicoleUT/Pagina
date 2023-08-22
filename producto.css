@@ -4,7 +4,7 @@ html {
   height: 100%;
   font-family: "Lora",serif;
   height: 400px;
-  background-image: url("fondo2.jpg");
+  background-image: url("fondo5.jpg");
   background-size: cover;
   color: white;
   background-repeat:no-repeat;
@@ -25,7 +25,7 @@ nav a:hover{
 header,footer{
     display: flex;
     min-height: 70px;
-    background-image: url("fondo3.jpg"); 
+    background-image: url("fondo5.jpg"); 
     justify-content: space-between;
     align-items: center;
     padding: 10px;
